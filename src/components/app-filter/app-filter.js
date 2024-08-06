@@ -10,7 +10,7 @@ const AppFilter = () => {
         Name
       </button>
       <button className="btn btn-outline-light" type="button">
-        Country
+        Salary
       </button>
       <button className="btn btn-outline-light" type="button">
         Department

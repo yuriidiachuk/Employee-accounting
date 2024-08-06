@@ -13,7 +13,7 @@ const EmployeesAddForm = () => {
         <input
           type="text"
           className="form-control new-post-label"
-          placeholder="Country"
+          placeholder="Salary"
         />
         <input
           type="text"
